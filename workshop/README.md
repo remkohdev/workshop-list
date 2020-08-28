@@ -22,7 +22,14 @@ A list of workshops delivered by the IBM Developer team
 
 * https://ibm-developer.gitbook.io/cloudpakforapplications-appmod/
 * https://ibm-developer.gitbook.io/openshift101/
+
+### Cloud Native - Security
+
 * https://ibm-developer.gitbook.io/cloud-native-security-workshop/
+
+### DevOps
+
+* https://ibm-developer.gitbook.io/devops-workshop/
 
 ### Workshop Template
 
